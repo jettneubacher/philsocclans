@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+    color: #030a29;
+    font-family: Copperplate, Papyrus, fantasy;    
+    text-shadow: 0 0 5px #C8C8C8;
+    background-image: url("parchment.jpg");
+        background-repeat: repeat-y;
+  background-size: 100% auto;
+  font-weight: bold;
+            }
+  input[type="radio"] {
+    -ms-transform: scale(2); /* IE 9 */
+    -webkit-transform: scale(2); /* Chrome, Safari, Opera */
+    transform: scale(2);
+  }
+  p {
+    font-size: 20px;
+  }
+  form {
+    font-size: 20px;
+  }
